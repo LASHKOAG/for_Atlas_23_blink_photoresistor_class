@@ -1,0 +1,1 @@
+# for_Atlas_23_blink_photoresistor_class
